@@ -8,7 +8,7 @@ function ListaAlumnos({ alumnos, onEditar, onEliminar }) {
     <table>
       <thead>
         <tr>
-          {/* Encabezados de columna */}
+          {/*  Encabezados de columna  */}
           <th>Nombre</th>
           <th>Asignatura</th>
           <th>Promedio</th>

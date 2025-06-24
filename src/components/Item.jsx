@@ -1,4 +1,3 @@
-//Importa React para poder usar JSX
 import React from "react"; 
 
 //Componente funcional Item que recibe tres props:

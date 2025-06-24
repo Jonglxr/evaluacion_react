@@ -5,7 +5,7 @@ const calcularApreciacion = (promedio) => {
   if (promedio < 4.0) return "Deficiente";       // Menor a 4.0
   if (promedio < 5.6) return "Con mejora";       // Entre 4.0 y 5.5
   if (promedio < 6.5) return "Buen trabajo";     // Entre 5.6 y 6.4
-  return "Destacado";                            // 6.5 o más
+  return "Destacado";                            // 6.5 o mas
 };
 
 function Formulario({ onAgregar, alumnoEditando }) {
